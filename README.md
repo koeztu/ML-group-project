@@ -11,6 +11,7 @@
 - feature engineering (agewhensold, agesinceremod, both very significant in random forest feature imporatnce)
 - why databalancing is impossible for this dataset.
 - impact of the seed for data shuffling / splitting
+- what furter analysis is necessary?
 - (tomek links)
 
 ### MODEL COMPARISON 
