@@ -2,8 +2,8 @@
 
 ## Members Group 1
 
-Alexander Beck
-Joel Blank
-Pascal Müntener
-Arthur Pavlics
+Alexander Beck<br>
+Joel Blank<br>
+Pascal Müntener<br>
+Arthur Pavlics<br>
 Kenan Öztürk
