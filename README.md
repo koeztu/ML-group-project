@@ -1,20 +1,9 @@
 # ML-group-project
 
+## Members Group 1
 
-## things to talk about in summary
-
-### preliminaries
-- talk about composite features
-- follow the notebook chronologically
-- how did we choose features?
-- how did we handle nans? (hint: there were none)
-- feature engineering (agewhensold, agesinceremod, both very significant in random forest feature imporatnce)
-- why databalancing is impossible for this dataset.
-- impact of the seed for data shuffling / splitting
-- what furter analysis is necessary?
-- (tomek links)
-
-### MODEL COMPARISON 
-- confusion matrices
-- accuracy
-- F1
+Alexander Beck
+Joel Blank
+Pascal Müntener
+Arthur Pavlics
+Kenan Öztürk
